@@ -1,0 +1,25 @@
+{
+    "name": "jimTest",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "dev-container",
+    "appPort": [
+        8080,
+        8081,
+        8082,
+        8083,
+        5005,
+        61616,
+        8161,
+        4200
+    ],
+    "workspaceFolder": "/workspaces",
+    "extensions": [
+        "vscjava.vscode-java-pack",
+		"ivory-lab.jenkinsfile-support",
+		"mutantdino.resourcemonitor",
+		"redhat.vscode-xml",
+		"dotjoshjohnson.xml",
+		"sohibe.java-generate-setters-getters",
+		"eamodio.gitlens"
+    ]
+}
