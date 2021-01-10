@@ -24,8 +24,8 @@ remain enabled while simultaneously not causing the container instantiation to f
 
 Kubernetes should be v1.19.3+
 
-
   First, you will need to verify you have Docker Desktop Installed. You will need to create an account, 
   install, re-log in, and restart your machine.  The newest version of Docker Desktop has Experimental 
   Features, of which the Cloud Experience should be enabled. Also, it might be wise to enable all options 
   in the Docker Desktop Settings General Section. 
+
